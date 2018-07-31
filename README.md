@@ -20,3 +20,7 @@ To run it put the files present in www folder to your apache working directory a
 Use API.py if your input file is present locally in your machine.
 
 Use main.py if your file is on internet.
+
+Example : In the provided image IMG_4024.JPG, one person is smiling out of three so the results are 33% agreed.
+
+!(https://github.com/kprem193/SmileDetector/blob/master/IMG_4025.JPG)
