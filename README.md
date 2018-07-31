@@ -13,7 +13,7 @@ php7
 
 PyCharm
 
-Libraries : pandas, requests
+Libraries needed : pandas, requests
 
 To run it put the files present in www folder to your apache working directory and open the remaining whole folder as a PyCharm project.
 
