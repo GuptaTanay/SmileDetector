@@ -23,4 +23,4 @@ Use main.py if your file is on internet.
 
 Example : In the provided image IMG_4024.JPG, one person is smiling out of three so the results are 33% agreed.
 
-!(https://github.com/kprem193/SmileDetector/blob/master/IMG_4025.JPG)
+![alt text](https://github.com/kprem193/SmileDetector/blob/master/IMG_4025.JPG)
