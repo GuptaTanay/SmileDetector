@@ -3,7 +3,7 @@
 It basically determines the percentage of people smiling. It can be used for taking polls(Smile if you agree otherwise not) by 
 multiple people at a time or for calculating emotion of one person.
 
-It uses Emorion API in the backend.
+It uses Emotion API in the backend.
 
 ### Requirements:
 
